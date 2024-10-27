@@ -20,3 +20,4 @@
 * [ หารสั้น ] -> https://elabsheet.org/elab/taskpads/show/xbok20436c/
 * [ Minecraft's Enchanted Book ] -> https://elabsheet.org/elab/taskpads/show/wf244pvfaw/
 * [ เมทริกซ์สลับเปลี่ยน ] -> https://elabsheet.org/elab/taskpads/show/9jyiro9k9u/
+* [ เรียงไพ่ ] -> https://elabsheet.org/elab/taskpads/show/vnhhqi2jvg/
